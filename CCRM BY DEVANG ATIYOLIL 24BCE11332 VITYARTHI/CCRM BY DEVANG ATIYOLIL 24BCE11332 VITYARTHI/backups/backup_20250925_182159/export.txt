@@ -1,0 +1,9 @@
+=== Courses ===
+1,DBMS,4,ME@,true
+101,dsa,4,ME,false
+
+=== Students ===
+102,Man,22BCE11332,true
+
+=== Enrollments ===
+102,1,S
